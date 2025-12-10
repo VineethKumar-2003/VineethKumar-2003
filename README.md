@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vineeth!<br><br>I’m a 4th-year Computer Science & Engineering student passionate about iOS development, cybersecurity, and backend engineering. I love building SwiftUI apps, exploring Latest iOS Trends, and working on projects that solve real-world problems.<br><br>🚀 Currently working on:<br>	•	A Women’s Safety App for iOS 📱<br>	•	A Legal Lens project for document text detection 📝<br><br>💡 Interests: SwiftUI, C++<br>🌱 Learning: Advanced SwiftUI (MVVM, APIs, Firebase) & Performance Optimization
+👋 Hi, I’m Vineeth!<br><br>I’m a 4th-year Computer Science & Engineering student passionate about iOS development, cybersecurity, and backend engineering. I love building SwiftUI apps, exploring Latest iOS Trends, and working on projects that solve real-world problems.<br><br>🚀 Currently working on:<br>	•	Timbre: AI Audio/Video Editor <br>💡 Interests: SwiftUI, C++<br>🌱 Learning: Advanced SwiftUI (MVVM, APIs, Firebase) & Performance Optimization
 
 
 ## 🌐 Socials:
